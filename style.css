@@ -1,0 +1,27 @@
+body {
+	font-family: arial;
+	background: rgb(209, 209, 209);
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	font-size: 40px;
+	font-family: arial;
+}
+
+img {
+	width: 300px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background: black;
+}
+
+ol {
+	text-align: left;
+}
