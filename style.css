@@ -5,9 +5,9 @@ body {
 }
 
 h1 {
-	color: red;
-	font-size: 40px;
-	font-family: arial;
+	color: black;
+	background: linear-gradient(20deg, rgba(10, 10, 10, 0.5), rgba(200, 200, 200, 0.5)) url("images/johnny.jpg") ;
+	padding: 100px;
 }
 
 img {
