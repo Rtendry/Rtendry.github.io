@@ -45,16 +45,16 @@ a {
   justify-content: flex-start;
 }
 
-#footer {
-	display: flex;
-	align-items: flex-end;
-	justify-content: space-around;
-}
-
 #footer{
   padding: 30px;
   background: rgb(30, 30, 30);
   color: lightgrey;
+}
+
+#footer {
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-around;
 }
 
 .my-btn {
